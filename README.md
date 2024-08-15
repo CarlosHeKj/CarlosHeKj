@@ -3,12 +3,15 @@
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-silva-dos-santos-360148320/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pacocakj/)
 
-<br>
-Apaixonado por tecnologia, estou a procura de me solidificar nessa carreira de programador backend
-<br>
-email para contato: carloslouise2015@gmail.com
+
 
 ![CarlosHeKj GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHeKj&show_icons=true&theme=radical)
+
+<br>
+<p>Apaixonado por tecnologia, estou estudando para me solidificar como desenvolvedor backend
+<br>
+email para contato: carloslouise2015@gmail.com</p>
+
 ### Tecnologias que eu uso no meu dia a dia
 
 <div style"display: inline_block">
